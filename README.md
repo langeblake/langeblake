@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Blake!
 
-🚀 **Web Developer | Exploring 3D & Cloud Tech**  
+🚀 **Web Developer | Full-Stack Applications | Exploring 3D and Cloud Tech
 
 💻 **Building web applications with React, Next.js, Node.js, MongoDB, PostgreSQL & Supabase.**  
 📍 Based in **Seoul, South Korea**.  
