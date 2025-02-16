@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Blake!
 
-🚀 **Web Developer | Full-Stack Applications | Exploring 3D and Cloud Tech
+🚀 **Web Developer | Full-Stack Applications | Exploring 3D & Cloud Tech**  
 
 💻 **Building web applications with React, Next.js, Node.js, MongoDB, PostgreSQL & Supabase.**  
 📍 Based in **Seoul, South Korea**.  
 🌱 Currently diving into **Three.js** for interactive 3D experiences while strengthening my backend and cloud development skills.  
 
-I'm passionate about creating engaging web experiences that combine intuitive interfaces with powerful backend systems. Recently, I've been working with **3D visualization using Three.js**, integrating it with backend services to deliver dynamic, interactive applications that respond in real-time.
+I'm passionate about creating engaging web experiences that blend intuitive interfaces with powerful backend systems. Lately, I’ve been working with **3D visualization using Three.js**, integrating it with backend services to build dynamic, interactive applications that respond in real-time.
+
 
 ---
 
