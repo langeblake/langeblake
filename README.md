@@ -5,6 +5,7 @@
 🔧 I’m a software engineer focused on frontend development with a strong eye for user experience and modern UI design. I enjoy crafting clean, responsive, and performant applications using React, Next.js, and TypeScript.
 
 📍 Based in Seoul, South Korea
+
 🌱 Currently deepening my skills in frontend architecture and user-centric design, while exploring cloud-based solutions and scalable backend systems.
 
 I’m passionate about building intuitive user interfaces that solve real-world problems, and I thrive in environments where design, development, and product thinking come together.
